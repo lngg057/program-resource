@@ -7,12 +7,12 @@
 * 教程
     * [官网简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/)
 * 学习日志
-    * [X天小程序开发速度入门--第1天](../program-blog/learn-weixin-app-day1.md)
-    * [X天小程序开发速度入门--第2天](../program-blog/learn-weixin-app-day2.md)
-    * [X天小程序开发速度入门--第3天](../program-blog/learn-weixin-app-day3.md)
-    * [X天小程序开发速度入门--第4天](../program-blog/learn-weixin-app-day4.md)
-    * [X天小程序开发速度入门--第5天](../program-blog/learn-weixin-app-day5.md)
-    * [X天小程序开发速度入门--第6天](../program-blog/learn-weixin-app-day6.md)
+    * [X天小程序开发速度入门--第1天](../program-blog/weixin-app/learn-weixin-app-day1.md)
+    * [X天小程序开发速度入门--第2天](../program-blog/weixin-app/learn-weixin-app-day2.md)
+    * [X天小程序开发速度入门--第3天](../program-blog/weixin-app/learn-weixin-app-day3.md)
+    * [X天小程序开发速度入门--第4天](../program-blog/weixin-app/learn-weixin-app-day4.md)
+    * [X天小程序开发速度入门--第5天](../program-blog/weixin-app/learn-weixin-app-day5.md)
+    * [X天小程序开发速度入门--第6天](../program-blog/weixin-app/learn-weixin-app-day6.md)
 * 练习项目
 * 相关技术
     * 前端
