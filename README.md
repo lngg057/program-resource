@@ -13,6 +13,7 @@
 
 ## 编程技术
 * [微信小程序](program-tool/weixin-app.md)
+   * [小程序学习周记1](program-blog/weixin-app/weekly-1.md)
 
 ## 技术词汇表
 * [Java](program-vocabulary/java.md)
