@@ -27,3 +27,4 @@
 * Java HashMap的遍历方法，[百度搜索 intitle:HashMap遍历](https://www.baidu.com/s?wd=intitle%3AHashMap%E9%81%8D%E5%8E%86)
 * 软件实施工程师和Java开发的区别，软件实施工程师的发展前景。[知乎搜索 实施工程师](https://www.zhihu.com/search?type=content&q=%E5%AE%9E%E6%96%BD%E5%B7%A5%E7%A8%8B%E5%B8%88)
 * Spring项目里面如何用 RESTful API。[百度搜索 spring +restful](https://www.baidu.com/s?wd=spring%20%2Brestful)
+* 找一个"校园二手商品交易系统"的程序。[download.csdn.net 搜索 校园二手商品交易系统](http://download.csdn.net/search/0/0/0/2/1/%E6%A0%A1%E5%9B%AD%E4%BA%8C%E6%89%8B%E5%95%86%E5%93%81%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F)
