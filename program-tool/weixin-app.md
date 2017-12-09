@@ -37,16 +37,16 @@
 
 [API文档](https://mp.weixin.qq.com/debug/wxadoc/dev/api/)
 
-* [网络](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-net)
+* [网络](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-net)
 * 媒体
-    * [图片](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-img)
-    * [录音及管理](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-record)
-    * [音乐播放](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-audio)
-    * [视频播放](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-video)
-* [文件](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-file)
-* [数据缓存](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-storage)
-* [位置](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-location)
-* [设备](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-device)
+    * [图片](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-img)
+    * [录音及管理](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-record)
+    * [音乐播放](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-audio)
+    * [视频播放](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-video)
+* [文件](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-file)
+* [数据缓存](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-storage)
+* [位置](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-location)
+* [设备](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-device)
     * 系统信息
     * 网络状态
     * 加速度计
@@ -60,7 +60,7 @@
     * 用户截屏事件
     * 震动
     * 手机联系人
-* [界面交互](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-react)
+* [界面交互](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-react)
     * 交互反馈
     * 设置导航条
     * 设置置顶信息
@@ -69,12 +69,12 @@
     * 位置
     * 绘图
     * 下拉刷新
-* [WXML节点信息](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-wxml)
-* [第三方平台](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-third-platform)
-* [开放接口](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-open-interface)
-* [数据](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-data)
-* [拓展接口](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-ext-interface)
-* [调试接口](https://github.com/tangyouhua/wx-mini-rogram/api/api.md#wxapi-debug-interface)
+* [WXML节点信息](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-wxml)
+* [第三方平台](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-third-platform)
+* [开放接口](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-open-interface)
+* [数据](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-data)
+* [拓展接口](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-ext-interface)
+* [调试接口](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md#wxapi-debug-interface)
 
 <h3 id="mina">小程序框架 MINA</h3>
 
