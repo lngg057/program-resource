@@ -4,6 +4,7 @@
 * CSS
 * HTML
 * HTTP
+   * [HTTP状态码](../program-vocabulary/http-status-codes.md)
 
 ## JavaScript
 ### JavaScript在小程序开发中的应用
