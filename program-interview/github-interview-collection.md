@@ -2,6 +2,10 @@
 
 * [软件工程技术面试个人指南](https://github.com/kdn251/interviews) [@Kevin Naughton Jr.](https://github.com/kdn251)
 * [技术面试手册](https://github.com/yangshun/tech-interview-handbook) [@Yangshun Tay](https://github.com/yangshun)
+* [前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)：TODO
+* [SQL练习题](https://en.wikibooks.org/wiki/SQL_Exercises):TODO
+* [用实际项目练SQL](https://github.com/XD-DENG/SQL-exercise):TODO
+* [sqlfiddle 在线SQL测试工具](http://sqlfiddle.com/#!9/a6c585/1):TODO
 
 ## 文章
 * [Starting Work](./article/starting-work.md)
@@ -51,7 +55,7 @@
    * sortingInputs.js
 
 ## 在线测试
-* [LeetCode](https://leetcode.com/) [LeeCode题目代码](https://github.com/kdn251/interviews/tree/master/LeetCode)
+* [LeetCode](https://leetcode.com/) :[LeeCode题目代码](https://github.com/kdn251/interviews/tree/master/LeetCode)、[C++版](https://github.com/soulmachine/leetcode)
 * [Virtual Judge](https://vjudge.net/)
 * [CareerCup](https://www.careercup.com/)
 * [HackerRank](https://www.hackerrank.com/)

@@ -4,6 +4,9 @@
 > 这里汇总整理了网络上的Java面试题，持续更新
 > * 百度"Java面试题"前200页
 
+* TODO
+   * [Java虚拟机专题贴](http://rednaxelafx.iteye.com/blog/362738)
+
 ## 基本概念
 * 操作系统中 heap 和 stack 的区别 
 * 什么是基于注解的切面实现
