@@ -27,6 +27,8 @@
    * [小程序 API Demo](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md)
    * [案例学习](https://github.com/tangyouhua/wx-mini-rogram/blob/master/sample/sample.md)
    * [学习日志](#wxblog)
+* 待整理资源
+   * [GitHub weixin-java-tools](https://github.com/wechat-group/weixin-java-tools)：带 Spring Boot 后台的微信公众号、小程序 Demo
 
 <h2 id="wxblog">学习日志</h2>
 
