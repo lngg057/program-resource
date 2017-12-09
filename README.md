@@ -5,7 +5,8 @@
 * [Java](program-book/java.md)
 
 ## 用好面试题
-* [Java](program-interview/java-baidu-200.md)
+* [GitHub优秀面试资源集合](program-interview/github-interview-collection.md)
+* [百度前100页 Java 面试题](program-interview/java-baidu-200.md)
 
 ## 用好教程
 * Java

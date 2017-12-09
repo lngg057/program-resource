@@ -2,6 +2,7 @@
 
 * 搜索引擎
 * GitHub
+* 搜索实例
 
 ## 搜索引擎
 * \+ 强迫包含：举例， `java +面试` *注意空格与加号影响效果*
@@ -22,3 +23,5 @@
 * 搜索完毕，可以在 **Languages** 列表上选择编程语言
 * 搜索结果，可筛选条件 **sort by**，建议按照评价 **most stars** 筛选
 
+## 搜索实例
+* Java HashMap的遍历方法，[百度搜索 intitle:HashMap遍历](https://www.baidu.com/s?wd=intitle%3AHashMap%E9%81%8D%E5%8E%86)
