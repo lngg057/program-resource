@@ -1,5 +1,19 @@
 # 讨论的话题
 
+* 全栈话题
+* 前端话题
+* UX/UI话题
+* 编程语言
+   * Clojure
+   * Haskell
+   * OCaml
+   * Scala
+      * Binding.scala
+* 工具话题
+   * Emacs
+   * Git
+* 资源
+
 ## 全栈话题
 * 能否准确定义全栈工程师
 * 最近关于全栈火热的话题
