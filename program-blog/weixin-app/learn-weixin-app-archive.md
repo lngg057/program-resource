@@ -2,6 +2,7 @@
 
 ## 学习日志
 
+* [X天小程序开发速度入门--第20天](./learn-weixin-app-day20.md)
 * [X天小程序开发速度入门--第19天](./learn-weixin-app-day19.md)
 * [X天小程序开发速度入门--第18天](./learn-weixin-app-day18.md)
 * [X天小程序开发速度入门--第17天](./learn-weixin-app-day17.md)
