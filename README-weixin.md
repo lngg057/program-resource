@@ -8,7 +8,6 @@
 * [微信小程序](program-tool/weixin-app.md)
 * [通过小程序学前端技术](program-tool/weixin-app-frontend.md)
 * [通过小程序学后端技术](program-tool/weixin-app-backend.md)
-基础
 * [通过小程序学网络技术](program-tool/weixin-app-network.md)
 * [小程序产品上线及维护](./weixin-app-product.md)
 * [通过小程序学App设计](program-tool/weixin-app-design.md)
