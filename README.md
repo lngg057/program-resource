@@ -44,5 +44,7 @@
 * [小程序 API Demo](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md)
 * [小程序案例学习](https://github.com/tangyouhua/wx-mini-rogram/blob/master/sample/sample.md)
 * [代码时间播客](program-blog/codetimecn.md)
+
 ### 工具
 * [搜索技巧](program-tool/search-skill.md)
+* [搜索jar文件的X种方法](program-tool/search-jar.md)
