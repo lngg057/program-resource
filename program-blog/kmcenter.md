@@ -7,6 +7,8 @@
 * 如何提高竞争力？程序员的竞争力是什么？
    * 竞争力一部分来自当前的知识量、编程动手能力、问题解决能力
    * 竞争力更多的来自于现有知识结构基础上不断学习、创造和利用知识的能力。举例，快速学习新技能，找到自学所需的资料等。
+* 如何持续学习（习惯）？
+   * 一个人每天的心智能量有限，例行公事常规化可以减少思考和决定，精力花在重要决策上
 * 如何持续学习（高级）？
    * 做好付出代价的准备，可能要忍受无趣、无聊、无望，干好了没有奖励，干坏了可能还要忍受批评和讽刺
    * 不仅要解决问题，还要探讨问题背后的原因，寻找更加复杂、困难的项目
@@ -279,8 +281,7 @@
 * [大牛为什么牛？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=213728664&idx=1&sn=ab94af2f909835e589cbd7710a2d44a1&scene=27#wechat_redirect)
 * [大部分所谓的好工作，不过是埋葬你才华的大坑](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909445&idx=1&sn=33835e9774833e096b7988a9a16fd8e1&chksm=852531eab252b8fc96316cdbd5ade43bb5e9fc62d7fb933bfad7334ee174125d65dbe8543002&scene=27#wechat_redirect)
 * [天道不一定酬勤：深度思考比勤奋更重要](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909587&idx=1&sn=78f0d7c67461747a66ae50fd1bd56bbb&chksm=8525317cb252b86ae41629455952fd2dee0bb8c93bbba7c4768a0eefebde29f139292b2b8175&scene=27#wechat_redirect)
-* [奥巴马时间管理的秘诀,你也能做到！](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=404352002&idx=1&sn=9d2a576093ce7a576aae99ef3d0b633d&scene=27#wechat_redirect)
-* [奥巴马的时间管理法则：工作变无聊，效率会更高](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=400059503&idx=1&sn=a2473ee3534c1b0e834afacd1b7da7ca&scene=27#wechat_redirect)
+* ✅[奥巴马时间管理的秘诀,你也能做到！](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=404352002&idx=1&sn=9d2a576093ce7a576aae99ef3d0b633d&scene=27#wechat_redirect)
 * [好可惜，你只是见多识广](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909951&idx=1&sn=fb52d9548961d679437ee5055ecb3fca&chksm=85253390b252ba867d122cedd0a548a513ed9d3bfc3509312936c13195c05604dd6cefab65b1&scene=27#wechat_redirect)
 * [如何优雅的展示自己，让领导觉得你有价值？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910591&idx=1&sn=6c558fd7de57ab3e37fe523bacae3ccf&chksm=85252d10b252a40613d21261956352e876eadf5a1957b03b16b257e790afff0b6cd840fc21fa&scene=27#wechat_redirect)
 * [如何做一名互联网时代的明白人？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909415&idx=1&sn=d138afcd63d16f092bd654555c94a178&chksm=85253188b252b89e5cec9a31d97afb2403322979ef1379379f48295e3d1a13846f1d50b81e7b&scene=27#wechat_redirect)
