@@ -4,6 +4,9 @@
 
 ### 正面引导
 * 为什么学习？提高自己的竞争力。
+* 如何提高竞争力？程序员的竞争力是什么？
+   * 竞争力一部分来自当前的知识量、编程动手能力、问题解决能力
+   * 竞争力更多的来自于现有知识结构基础上不断学习、创造和利用知识的能力。举例，快速学习新技能，找到自学所需的资料等。
 * 如何确定目标？捷径：先把手头的事情做好，做的过程中探索适合自己的方向。
 * 如何使用资料、工具与方法？**亲身实践**。
 * 究竟要找什么样的资源？从工作任务来分析，需要知道什么，什么情况用，用来做什么，解决什么问题。
@@ -178,7 +181,7 @@
 * [你是真的在学习，还是假装在学习（9条）？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910012&idx=1&sn=d6c3dfa21f1937e96b5a00ddb2f508db&chksm=852533d3b252bac52e846a5d321d39e961be7962b4c531c6052fa1ba4e6a62b666be6abc51ad&scene=27#wechat_redirect)
 * [你最大的麻烦，都是因为没有方向](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910580&idx=1&sn=bc2883c495e8d080a104616de50dd010&chksm=85252d1bb252a40d33b3ab118f5b98ccdef1d0a7be8c821c2b607558dda135073c6e8b0a1b70&scene=27#wechat_redirect)
 * [你根本不是情商低，而是对人性的了解少](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909844&idx=1&sn=1763dec09a50ff3bb2dff2c3f5d1614f&chksm=8525327bb252bb6d9d541838b3cde628492523c2c80a56e1b1b48fdd2658dbfdaa3c99e7ba88&scene=27#wechat_redirect)
-* [你的优势来自哪些你还没有掌握的知识](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908099&idx=1&sn=4e637922a80735c2df7437dbdb8e6e4e&scene=27#wechat_redirect)
+* ✅[你的优势来自哪些你还没有掌握的知识](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908099&idx=1&sn=4e637922a80735c2df7437dbdb8e6e4e&scene=27#wechat_redirect)
 * [你的大部分问题，都有人遇到过并且已经解决了](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909156&idx=1&sn=ec34f5b784fb6bbd0f1c2f3a9792e584&chksm=8525308bb252b99d9e35e1d141a4c04ff4868304c7348eee633767b5b0a346d0c432adce0376&scene=27#wechat_redirect)
 * [你的学历和经验值多少钱？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909352&idx=1&sn=e5340d706ed7f8dd5aaafd2b3f9c11aa&chksm=85253047b252b95112dfd8409637ee7934dbb6a56340a06f688b6e2632bd6b0f492adf1b619e&scene=27#wechat_redirect)
 * [你的知识需要管理：学会“理才”](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909797&idx=2&sn=5850fbf66a8d27f523462976c84170ca&chksm=8525320ab252bb1c7f28287d95fc4b28b1e02d8ce47ed94421a2f55f6b9b61d6dff4d0001e72&scene=27#wechat_redirect)
