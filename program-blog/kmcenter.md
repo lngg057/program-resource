@@ -7,12 +7,17 @@
 * 如何提高竞争力？程序员的竞争力是什么？
    * 竞争力一部分来自当前的知识量、编程动手能力、问题解决能力
    * 竞争力更多的来自于现有知识结构基础上不断学习、创造和利用知识的能力。举例，快速学习新技能，找到自学所需的资料等。
+* 如何持续学习（高级）？
+   * 做好付出代价的准备，可能要忍受无趣、无聊、无望，干好了没有奖励，干坏了可能还要忍受批评和讽刺
+   * 不仅要解决问题，还要探讨问题背后的原因，寻找更加复杂、困难的项目
+   * 思考更加抽象、本质、深刻的问题，挑战自己的认知和习惯，乃至于价值观
 * 如何确定目标？捷径：先把手头的事情做好，做的过程中探索适合自己的方向。
 * 如何使用资料、工具与方法？**亲身实践**。
 * 究竟要找什么样的资源？从工作任务来分析，需要知道什么，什么情况用，用来做什么，解决什么问题。
    * 举例，开发微信小程序注册页面。需要知道[微信开发需要哪些知识](https://github.com/tangyouhua/program-resource/blob/master/program-tool/weixin-app.md)、用户注册业务流程，在注册的时候用，引导用户完成注册流程，解决注册正常流程和异常流程UI。
 * 如何学习标准规范？不仅看到字面意思，更看到后面的微言大义。
    * 举例，HTML标准里面的标签。看到 `<table>` 标签用法，常规创建 table 的方法，如何解决 table 内容自适应、固定表头等复杂问题。
+
 
 ### 反面分析
 * 为什么我会囤积资源？基因决定，囤粮、囤钱、置地、买房，囤资源。
@@ -466,7 +471,7 @@
 * [省了5千浪费50万，最划算的KM投资！知识管理实施必修课(开放报名ing)](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=402804910&idx=1&sn=5f5a28c18f68ba07b1406afda2303d48&scene=27#wechat_redirect)
 * [看饭桌上那些吹牛的人：无知比博学更容易给人带来自信 | 二句](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909132&idx=2&sn=502b50e854543ca5dd904d40355a3fd6&chksm=852530a3b252b9b5ccd203aaff54a9d4dc8b31a1dc5779aed6e124c24558015dc7b37ec928f5&scene=27#wechat_redirect)
 * [真不是你不行，而是你们单位不行](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909468&idx=1&sn=fc3ccc8056c7fe4c55e33905f12feabd&chksm=852531f3b252b8e56d981bdaf58ede8f80c584334749cc0baf8f99da5c2b676e87db4970423e&scene=27#wechat_redirect)
-* [真正NB的人，谁不是在跟人性斗争中长起来的？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909670&idx=1&sn=4ce942a0863df5a89e2b1846ffbe9bb8&chksm=85253289b252bb9f660808d04ff52f41a8eaa4ba044c944abefd7555871db787081df866db4a&scene=27#wechat_redirect)
+* ✅[真正NB的人，谁不是在跟人性斗争中长起来的？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909670&idx=1&sn=4ce942a0863df5a89e2b1846ffbe9bb8&chksm=85253289b252bb9f660808d04ff52f41a8eaa4ba044c944abefd7555871db787081df866db4a&scene=27#wechat_redirect)
 * [真正厉害的人，他的每个知识都有4层](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910063&idx=2&sn=25aad8273f71e6aac41e4d390513c676&chksm=85253300b252ba1685f736edd55448ee0e7e5d1904d5b33fbbd8b1107a7eb89b86d2057a1eff&scene=27#wechat_redirect)
 * [真正厉害的人，既不矫情也不装](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909430&idx=1&sn=63525390334cd9182c7f4aa333ec84c3&chksm=85253199b252b88fbef190bc4bbbedc3ad3b6d702353477479ebafccdff66140894053314071&scene=27#wechat_redirect)
 * [真正厉害的人，是如何做到一眼就看透事物本质的？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909811&idx=1&sn=6e771f6078dc4ed59293e7cc87b7682e&chksm=8525321cb252bb0a235c73feee1693f95bb1f8864ebd4f7480c2d16e7bd78e5839dede95442d&scene=27#wechat_redirect)
