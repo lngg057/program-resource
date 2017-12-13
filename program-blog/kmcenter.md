@@ -2,9 +2,17 @@
 
 ## 分类笔记
 
+### 正面引导
 * 为什么学习？提高自己的竞争力。
 * 如何确定目标？捷径：先把手头的事情做好，做的过程中探索适合自己的方向。
 * 如何使用资料、工具与方法？**亲身实践**。
+* 究竟要找什么样的资源？从工作任务来分析，需要知道什么，什么情况用，用来做什么，解决什么问题。
+   * 举例，开发微信小程序注册页面。需要知道[微信开发需要哪些知识](https://github.com/tangyouhua/program-resource/blob/master/program-tool/weixin-app.md)、用户注册业务流程，在注册的时候用，引导用户完成注册流程，解决注册正常流程和异常流程UI。
+* 如何学习标准规范？不仅看到字面意思，更看到后面的微言大义。
+   * 举例，HTML标准里面的标签。看到 `<table>` 标签用法，常规创建 table 的方法，如何解决 table 内容自适应、固定表头等复杂问题。
+
+### 反面分析
+* 为什么我会囤积资源？基因决定，囤粮、囤钱、置地、买房，囤资源。
 
 ## 公众号文章
 * ✅ [10年干1件事情的人跟1年干10件事情的人，注定是截然不同的命运！](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909284&idx=1&sn=2dd55f459944484593e35395c7c3b1ca&chksm=8525300bb252b91d30d4b528ef11d620ee60f689cde6dfd36ecb5f347e5a83b79bb952589670&scene=27#wechat_redirect) 
@@ -202,7 +210,7 @@
 * [关于学习方法的阅读材料](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909502&idx=3&sn=aa9eed19042fb87ba4d9f71f122cfc81&chksm=852531d1b252b8c7690df96b93e020c4cec29afbec757c5d7d61db897c571aeedef2fc9a27a3&scene=27#wechat_redirect)
 * [关于学习的元认知](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910239&idx=1&sn=c105147a8c6b978719dcd30f4433e2f3&chksm=85252cf0b252a5e6a86a630a9def9b758ba0b3ebce41bc47b5d5e89fcc93e129cac75430a6ba&scene=27#wechat_redirect)
 * [关于知识管理软件和系统的5个真相](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908650&idx=2&sn=7a1f4bad72c4105271703c79eb68252e&chksm=85253685b252bf936d81b420939f281b0be0490db42828b41da7f340cd9faf28db3c21651e6f&scene=27#wechat_redirect)
-* [再多的知识资源也构不成竞争优势，有人使用的资源才有价值](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908480&idx=1&sn=8bce83b226c5e7f19339c008e0614594&scene=27#wechat_redirect)
+* ✅ [再多的知识资源也构不成竞争优势，有人使用的资源才有价值](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908480&idx=1&sn=8bce83b226c5e7f19339c008e0614594&scene=27#wechat_redirect)
 * [写文章的两个好处](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910031&idx=1&sn=86f59ec90f79f6caef7a80c1042b2804&chksm=85253320b252ba3689bdedc95849445969170dabbb71072c907f96be5a87b6af0b1d800d2c8b&scene=27#wechat_redirect)
 * [写的生动形象根本不是好作家的标准！](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910007&idx=1&sn=0e51d907a55b1a0f5385607ed02e3c97&chksm=852533d8b252bace52d026a27be2890fe3e5209cbb33385056135925f234b3946a74b4749912&scene=27#wechat_redirect)
 * [冯友兰：人生的境界可以分四类](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910591&idx=3&sn=a4cfc52b212c09314eedc0abbd351fba&chksm=85252d10b252a4066ca08ee1b4080a433248373fff576d23f42d0f53c05543bacf21f44886d6&scene=27#wechat_redirect)
