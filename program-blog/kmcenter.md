@@ -1,7 +1,13 @@
 # 知识管理中心
 
-* [10年干1件事情的人跟1年干10件事情的人，注定是截然不同的命运！](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909284&idx=1&sn=2dd55f459944484593e35395c7c3b1ca&chksm=8525300bb252b91d30d4b528ef11d620ee60f689cde6dfd36ecb5f347e5a83b79bb952589670&scene=27#wechat_redirect)
-   * 思考为什么学？学习的成果是什么，会不会提高自己的竞争力。一下子定不了不学目标，就先把手头的事情做好，做的过程中探索适合自己的方向。海量信息包含了很多工具和方法，但它们只是提供了一个线索，只有亲身检验过，才知道是不是真的适合自己。
+## 分类笔记
+
+* 为什么学习？提高自己的竞争力。
+* 如何确定目标？捷径：先把手头的事情做好，做的过程中探索适合自己的方向。
+* 如何使用资料、工具与方法？**亲身实践**。
+
+## 公众号文章
+* ✅ [10年干1件事情的人跟1年干10件事情的人，注定是截然不同的命运！](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909284&idx=1&sn=2dd55f459944484593e35395c7c3b1ca&chksm=8525300bb252b91d30d4b528ef11d620ee60f689cde6dfd36ecb5f347e5a83b79bb952589670&scene=27#wechat_redirect) 
 * [10道题测试你是否会用互联网，试一下](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909645&idx=1&sn=36261dc13f153e5e5255d9abc54f2924&chksm=852532a2b252bbb4bb885ba224f7d797239e7e648bbb020731fdc480236e749e5cf2fd120cb6&scene=27#wechat_redirect)
 * [1928年梁漱溟在广州中山大学哲学系的演讲稿：思维的层次和境界](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908712&idx=1&sn=03cf52c062b241e6d75db9fd2d7b63a5&chksm=852536c7b252bfd12f20b0dd835588e7a2580e6de51334e73dbfb936645d13a767d8463124c7&scene=27#wechat_redirect)
 * [1个出色的人才不是顶2个普通人，而是顶50个](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908258&idx=1&sn=22f99e2495f6be65073acb4caab3e5ed&scene=27#wechat_redirect)
