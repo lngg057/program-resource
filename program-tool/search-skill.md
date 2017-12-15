@@ -24,6 +24,8 @@
 * 搜索结果，可筛选条件 **sort by**，建议按照评价 **most stars** 筛选
 
 ## 搜索实例
+* 搜索博客园写作10年以上的博客: 百度搜索 `("园龄:12年" | "园龄:11年" | "园龄:10年") site:cnblogs.com`
+   * 查看最近还在更新的博客, 把 "时间不限" 改为 "最近1年"
 * Java HashMap的遍历方法，[百度搜索 intitle:HashMap遍历](https://www.baidu.com/s?wd=intitle%3AHashMap%E9%81%8D%E5%8E%86)
 * 软件实施工程师和Java开发的区别，软件实施工程师的发展前景。[知乎搜索 实施工程师](https://www.zhihu.com/search?type=content&q=%E5%AE%9E%E6%96%BD%E5%B7%A5%E7%A8%8B%E5%B8%88)
 * Spring项目里面如何用 RESTful API。[百度搜索 spring +restful](https://www.baidu.com/s?wd=spring%20%2Brestful)
