@@ -7,6 +7,11 @@
 * 如何提高竞争力？程序员的竞争力是什么？
    * 竞争力一部分来自当前的知识量、编程动手能力、问题解决能力
    * 竞争力更多的来自于现有知识结构基础上不断学习、创造和利用知识的能力。举例，快速学习新技能，找到自学所需的资料等。
+* 如何体系化学习，完善自己的知识结构？
+   * 知识体系，在一个领域内遍历、深入，掌握概念、流程、业务
+      * 从点到面掌握体系，解决**不知道自己不知道**这个问题
+   * 知识结构，与工作相关，多领域技能组合。有缺项的时候，比如软技能缺乏，会导致整体没有竞争力，比如面试
+      * 能针对应用场景，建立解决问题的套路，根据具体的情况触发再去找相关知识
 * 如何持续学习（习惯）？
    * 一个人每天的心智能量有限，例行公事常规化可以减少思考和决定，精力花在重要决策上
 * 如何持续学习（高级）？
@@ -154,7 +159,7 @@
 * [从来没什么能说会道，精确优雅的表达是一种需要训练的能力 | 深度](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908441&idx=1&sn=43a939a407b597ef19edcfbe6e5c57b0&scene=27#wechat_redirect)
 * [从来没有一个人因为读书而成为顶尖高手！](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909921&idx=1&sn=2c963f5820c04be78dfea7de90e1579d&chksm=8525338eb252ba982b8d4c2f6ef16647972edc08886358b9500776c19454f783216d934d3c0c&scene=27#wechat_redirect)
 * [从来没有自己的主见和判断，是许多悲剧人生的根本原因](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910001&idx=1&sn=1950930429b1f717bd58ba332c51eba1&chksm=852533deb252bac8c329737f996c65af0c50df4ed5eb40654394530e3868ea4508fe58150ecd&scene=27#wechat_redirect)
-* [他们的知识体系，你的知识结构](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=402365818&idx=1&sn=110b036a36c3a95cf0e7f144e759af36&scene=27#wechat_redirect)
+* ✅[他们的知识体系，你的知识结构](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=402365818&idx=1&sn=110b036a36c3a95cf0e7f144e759af36&scene=27#wechat_redirect)
 * [他们说掌握这种能力，能让你成为珍贵的1](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909894&idx=1&sn=3aae091190179bc93707fbb6e9e95255&chksm=852533a9b252babf292dfc47d13c000cca65cdd74c39c50db0a34a0010ff4f5163521aa459b7&scene=27#wechat_redirect)
 * [任何事情都可以归纳出一个中心论点，而此中心论点可由三至七个论据支持 | 一段【冯唐】](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908863&idx=1&sn=9ad9a4ed5ec980de244246deae4d7bca&chksm=85253650b252bf461241eb0584be920e71b0df44f43f6665da57f82a1dbb5bd83d79907bafc2&scene=27#wechat_redirect)
 * [任何行当的王者，都走过这5个段位，高手才4个](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910346&idx=1&sn=2fbdd31eaf00f4b2be0e8f63a76c938c&chksm=85252c65b252a57326202c34947bb4c824a788425c307ac3acc9b3c758a8b33f4be6dd08abf0&scene=27#wechat_redirect)
@@ -556,10 +561,9 @@
 * [要想有所成就，仅有梦想是不够的：主要依赖于以下2个因素](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909754&idx=1&sn=6c745730ce227bc3c543583d999a437c&chksm=852532d5b252bbc382719ce3433612b44d28c9a0e7cd104aeee38a7b732b35db52fd40d577bb&scene=27#wechat_redirect)
 * [要成为顶尖人才除了依靠自己外，还要靠什么？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910021&idx=1&sn=3f1e2bc539f49a38055ef2a96677a8b0&chksm=8525332ab252ba3ce190ed634863c129265cc3637b7d936e854841fa670a77c25e44b7906443&scene=27#wechat_redirect)[要成为高手，首先要知道高手什么样？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=402039218&idx=1&sn=8a5302924c9e83855a77d370861b389a&scene=27#wechat_redirect)
 * [要达到任何领域的顶尖水平，其实就这2点，没有例外](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910190&idx=1&sn=0c9a6162d893f10967a2027fd738d404&chksm=85252c81b252a597d0d374818a3acc27a420bbd27238778f1733c5893814755cea4bdd929707&scene=27#wechat_redirect)
-* [视频 | 从知识点到知识体系](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=403315869&idx=1&sn=b1a85efb8cc26e832ffe8421d1b9cef9&scene=27#wechat_redirect)
 * [视频 | 在你的大脑中，知识点是如何联接成知识体系？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908354&idx=1&sn=4ae2b979305edced2c8f2e51e792436f&scene=27#wechat_redirect)
 * [视频 | 在大脑中，知识点如何联接成知识体系？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910394&idx=2&sn=33bc6d5be60f1a5bb12640e7ddd6e059&chksm=85252c55b252a54387d5c4a59f520de8a3d753a98ae2f094b13150841bee273d17d073efe02f&scene=27#wechat_redirect)
-* [视频 | 真正学会了是怎样一种体验，知识体系是个什么鬼？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=400126807&idx=1&sn=dcfbfb0b5c070d5ef51cd163d19baf99&scene=27#wechat_redirect)
+* ✅[视频 | 真正学会了是怎样一种体验，知识体系是个什么鬼？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=400126807&idx=1&sn=dcfbfb0b5c070d5ef51cd163d19baf99&scene=27#wechat_redirect)
 * [解决毫无头绪一筹莫展的问题时，才是你成长最快的时刻](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909987&idx=1&sn=1121bb47fc4c1c488fd838d197e12bbf&chksm=852533ccb252bada192ab540290b61f3533faa75c4e7e91c1264ccf80d764fceba15cd3d8f40&scene=27#wechat_redirect)
 * [警惕他们的知识](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909264&idx=1&sn=7d2badb20f8c654ff89be76f5432f9bb&chksm=8525303fb252b92982aac825deb064aba3d79f9c4878baa14ab4049d568974ba6ef33b2b214b&scene=27#wechat_redirect)
 * [认知升级的本质：发现“不知道自己不知道”](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909497&idx=2&sn=3e4a86eed1f89fb11af1606f23c3227e&chksm=852531d6b252b8c08cd6300b2133f6689c7e9f04e9359991ad0c781daa140612d8415a50ace2&scene=27#wechat_redirect)
