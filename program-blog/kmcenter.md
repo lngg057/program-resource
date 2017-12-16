@@ -12,6 +12,9 @@
       * 从点到面掌握体系，解决**不知道自己不知道**这个问题
    * 知识结构，与工作相关，多领域技能组合。有缺项的时候，比如软技能缺乏，会导致整体没有竞争力，比如面试
       * 能针对应用场景，建立解决问题的套路，根据具体的情况触发再去找相关知识
+   * 分类能力
+      * 掌握某个领域海量知识，包括陈述性、程序性、情境性知识，提高“模式识别”，通过现象看本质
+      * 训练概念能力，积累相关词汇，深刻的体系分类对应的是深刻的概念
 * 如何持续学习（习惯）？
    * 一个人每天的心智能量有限，例行公事常规化可以减少思考和决定，精力花在重要决策上
 * 如何持续学习（高级）？
@@ -65,7 +68,7 @@
 * [一万小时理论和刻意练习都不靠谱，你该如何快速提升自己？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908104&idx=1&sn=9663693d71fe1a4779655076122d923d&scene=27#wechat_redirect)
 * [一个人凭自己的经验得出的结论当然是最好，但是时间就浪费得多了 | 一句【李嘉诚】](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908546&idx=2&sn=5bcf9fdd3857161933d7eade69b73e6a&scene=27#wechat_redirect)
 * [一个人怎样才能认识自己呢 | 一句【歌德】](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908678&idx=3&sn=2e6a9cfc78d612b91417bf4dad866510&chksm=852536e9b252bfff0311742f478cb43b3ee9bff134a55dad303a2ad08a904ac8bf30316153cd&scene=27#wechat_redirect)
-* [一个人思维水平的最根本力量，来自于他的分类能力丨深度](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909367&idx=1&sn=20052fddaa5c18cf8a75aa45333c2491&chksm=85253058b252b94ecdfd5091a0a26c7f0f31645dd5e68f89fb622351180834f3b6f7961b66f0&scene=27#wechat_redirect)
+* ✅[一个人思维水平的最根本力量，来自于他的分类能力丨深度](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909367&idx=1&sn=20052fddaa5c18cf8a75aa45333c2491&chksm=85253058b252b94ecdfd5091a0a26c7f0f31645dd5e68f89fb622351180834f3b6f7961b66f0&scene=27#wechat_redirect)
 * [一个人要像一支队伍：如何让5个人像500人那样去战斗](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909982&idx=1&sn=fafe599bd6dc9fcee5a3fd0c3faf9937&chksm=852533f1b252bae7e5aca6c55fd3ca6f8fb3bab1e87b0db2bd882ccf34d45b493a6ff3a2dd5d&scene=27#wechat_redirect)
 * [一个优秀女子的知识结构图](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908018&idx=1&sn=e6cb6b653e2065eaf5d0f54cb00ebdac&scene=27#wechat_redirect)
 * [一个受过高等教育的普通人，离成为领域的专家有多远？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908816&idx=1&sn=65b3e9dcbec43fb63b1da775aee4b67d&chksm=8525367fb252bf69123a5c0b9eab6c2cc64db59dec68ccc3c5aa62305a3164fc004dccaac6d7&scene=27#wechat_redirect)
