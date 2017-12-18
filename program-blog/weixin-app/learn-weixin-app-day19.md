@@ -1,7 +1,7 @@
 # X天小程序开发速度入门(UI)--第19天：
 
 
-今天学习了 cover-view 控件使用[参见这里](https://github.com/tangyouhua/wx-mini-rogram/blob/master/component/cover-view/cover-view.md)。在官方示例基础上做了以下修改：
+今天学习了 cover-view 控件使用[参见这里](https://github.com/tangyouhua/wx-mini-program-demo/blob/master/component/cover-view/cover-view.md)。在官方示例基础上做了以下修改：
 
 * 视频显示宽度改为 100%；
 * 增加定时更新播放时间；

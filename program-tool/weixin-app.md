@@ -30,9 +30,9 @@
 * [通过小程序学App设计](./weixin-app-design.md)
 * [小程序产品上线及维护](./weixin-app-product.md)
    * [基础库兼容](https://mp.weixin.qq.com/debug/wxadoc/dev/framework/compatibility.html)
-* [小程序组件 Demo](https://github.com/tangyouhua/wx-mini-rogram/blob/master/component/component.md)
-* [小程序 API Demo](https://github.com/tangyouhua/wx-mini-rogram/blob/master/api/api.md)
-* [案例学习](https://github.com/tangyouhua/wx-mini-rogram/blob/master/sample/sample.md)
+* [小程序组件 Demo](https://github.com/tangyouhua/wx-mini-program-demo/blob/master/component/component.md)
+* [小程序 API Demo](https://github.com/tangyouhua/wx-mini-program-demo/blob/master/api/api.md)
+* [案例学习](https://github.com/tangyouhua/wx-mini-program-demo/blob/master/sample/sample.md)
 * [学习日志](../program-blog/weixin-app/learn-weixin-app-archive.md)
 
 ## 待整理资源
