@@ -13,8 +13,9 @@
    * 知识结构，与工作相关，多领域技能组合。有缺项的时候，比如软技能缺乏，会导致整体没有竞争力，比如面试
       * 能针对应用场景，建立解决问题的套路，根据具体的情况触发再去找相关知识
    * 分类能力
-      * 掌握某个领域海量知识，包括陈述性、程序性、情境性知识，提高“模式识别”，通过现象看本质
+      * 掌握某个领域海量（只有海量信息才可以“模式识别）知识，包括陈述性、程序性、情境性知识，提高“模式识别”，通过现象看本质
       * 训练概念能力，积累相关词汇，深刻的体系分类对应的是深刻的概念
+      * 分析与综合，找到不同点与综合相同点
 * 如何持续学习（习惯）？
    * 一个人每天的心智能量有限，例行公事常规化可以减少思考和决定，精力花在重要决策上
 * 如何持续学习（高级）？
@@ -634,7 +635,7 @@
 * [高层次的人解决问题的方式：从上到下框架思考](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909918&idx=1&sn=bf19356005fb12fe2a1c9cd0b7efcccd&chksm=852533b1b252baa76b016ec5bb60ae3831fc482b75d159e07255596f69df4be67e593a5abf54&scene=27#wechat_redirect)
 * [高手“看一眼就知道怎么做”是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=404025765&idx=1&sn=4ffdf68618769b81e9dbd14252bfd2b8&scene=27#wechat_redirect)
 * [高手是如何学习的？](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909043&idx=1&sn=4bc1b6ff27e8793e7bca5d80c123cebe&chksm=8525371cb252be0aeff55851274df9b71b12eae2a7b2cbf57318121799d3e6e3331ad82301d6&scene=27#wechat_redirect)
-* [高手的核心能力能力之分类丨深度](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908966&idx=1&sn=f4fc5678722fad3d3f35ed19f6598a20&chksm=852537c9b252bedfa05548b24154458513c41c22946a05074921e86d9239f55be892c81a72d9&scene=27#wechat_redirect)
+* ✅ [高手的核心能力能力之分类丨深度](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908966&idx=1&sn=f4fc5678722fad3d3f35ed19f6598a20&chksm=852537c9b252bedfa05548b24154458513c41c22946a05074921e86d9239f55be892c81a72d9&scene=27#wechat_redirect)
 * [高手的秘笈：全是套路](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651909500&idx=1&sn=498fd1544b201f86a8a2262e94ea001e&chksm=852531d3b252b8c5ec715f2f6195cc55a3669e9e28ecab3566b72b0887c032244fdb192d6430&scene=27#wechat_redirect)
 * [高手解决复杂问题的秘笈](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651908055&idx=1&sn=bced39ad8ec5c2c718db84975711c24e&scene=27#wechat_redirect)
 * [高效学习中第一位的问题](http://mp.weixin.qq.com/s?__biz=MzA3MDEzNTIzMg==&mid=2651910768&idx=3&sn=767a4758b1928686a11be3e51f7a07c2&chksm=85252edfb252a7c96fc3c1f8461102e9f7a510df8d58efa595f67091a10cab568a4fbe668277&scene=27#wechat_redirect)
