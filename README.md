@@ -18,6 +18,7 @@
 ### 搜索
 * [搜索技术](program-tool/search-skill.md)
 * [搜索jar文件](program-tool/search-jar.md)
+* [GitHub emoji](https://segmentfault.com/a/1190000009649780)
 
 ### 编程风格
 * [Google HTML/CSS 编程样式指南](https://tangyouhua.github.io/styleguide/htmlcssguide.html)
