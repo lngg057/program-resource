@@ -1,50 +1,76 @@
-# program-resource
+# 编程资源，不做大全
 分享编程资源，一起用好资源，用好的资源 **QQ(50872495)**
 
-* 编程资源
-   * [开发技术](#开发技术)
-   * [前端](#前端)
-   * [后端](#后端)
-   * [编程基础](#编程基础)
-   * [运维](#运维)
-   * [产品](#产品)
-   * [面试](#面试)
-   * [学习](#学习)
-   * [工具](#工具)
-* [小程序开发](./README-weixin.md)
-
-### 开发技术
-* [微信小程序](program-tool/weixin-app.md)
-
-### 前端
-* [通过小程序学前端技术](program-tool/weixin-app-frontend.md)
-
-### 后端
-* [通过小程序学后端技术](program-tool/weixin-app-backend.md)
-* [Java书](program-book/java.md)
-* [Java面试题](program-interview/java-baidu-200.md)
-* [J2SE教程(oracle)](program-blog/java-oracle-learn-path.md)
-
-### 编程基础
-* [通过小程序学网络技术](program-tool/weixin-app-network.md)
-* [编程词汇表](program-vocabulary/java.md)
-
-### 运维
-* [小程序产品上线及维护](./weixin-app-product.md)
-
-### 产品
-* [通过小程序学App设计](program-tool/weixin-app-design.md)
-
-### 面试
-* [GitHub面试资源集合](program-interview/github-interview-collection.md)
-
-### 学习
-* [小程序学习笔记](program-blog/weixin-app/learn-weixin-app-archive.md)
-* [小程序组件 Demo](https://github.com/tangyouhua/wx-mini-program-demo/blob/master/component/component.md)
-* [小程序 API Demo](https://github.com/tangyouhua/wx-mini-program-demo/blob/master/api/api.md)
-* [小程序案例学习](https://github.com/tangyouhua/wx-mini-program-demo/blob/master/sample/sample.md)
-* [代码时间播客](program-blog/codetimecn.md)
-
-### 工具
-* [搜索技巧](program-tool/search-skill.md)
-* [搜索jar文件的X种方法](program-tool/search-jar.md)
+* 日常用
+   * 搜索
+      * [搜索技术](program-tool/search-skill.md)
+      * [搜索jar文件](program-tool/search-jar.md)
+    * 编程风格
+      * [Google HTML/CSS 编程样式指南](https://tangyouhua.github.io/styleguide/htmlcssguide.html)
+   * 工具
+      * [SublimeText使用技巧](program-tool/sublimetext.md)
+         * [Emmet使用技巧](./tool/emmet.md)
+      * [微信Web开发工具调试技巧](program-tool/weixin-app-debug.md)
+      * [CodePen](https://codepen.io/): 前端开发者在线工具, HTML/CSS
+      * [Chrome 开发者工具](https://developers.google.cn/web/tools/chrome-devtools/)
+      * [Inonfont图标资源](http://www.iconfont.cn/)
+      * [MySQL工具](https://github.com/jobbole/awesome-mysql-cn)
+      * [系统管理工具](https://github.com/jobbole/awesome-sysadmin-cn)
+   * 脚本
+      * [快乐的Linux命令行](http://billie66.github.io/TLCL/book/)
+      * [Linux命令速查](http://wangchujiang.com/linux-command/)
+* 代码与参考
+   * [微信小程序](program-tool/weixin-app.md)
+      * [微信小程序demo](https://github.com/tangyouhua/wx-mini-program-demo)
+   * [HTML/CSS demo](https://github.com/tangyouhua/html-css-javascript-demo)
+   * 开发库
+      * [DotNet开发库](https://github.com/jobbole/awesome-dotnet-cn)
+      * [Python开发库](https://github.com/jobbole/awesome-python-cn)
+      * [JavaScript开发库](https://github.com/jobbole/awesome-javascript-cn)
+      * [Java开发库](https://github.com/jobbole/awesome-java-cn)
+      * [iOS开发库](https://github.com/jobbole/awesome-ios-cn)
+      * [PHP开发库](https://github.com/jobbole/awesome-php-cn)
+      * [机器学习开发库](https://github.com/jobbole/awesome-machine-learning-cn)
+      * [C++开发库](https://github.com/jobbole/awesome-cpp-cn)
+      * [C语言开发库](https://github.com/jobbole/awesome-c-cn)
+      * [Android开发库](https://github.com/jobbole/awesome-android-cn)
+      * [CSS开发库](https://github.com/jobbole/awesome-css-cn)
+   * [jQuery小技巧](https://github.com/jobbole/jquery-tips-everyone-should-know)
+* 面试用
+   * [GitHub面试资源集合](program-interview/github-interview-collection.md)
+   * [百度前200页Java面试题](program-interview/java-baidu-200.md)
+* 学习用
+   * [编程练习小项目集合](https://github.com/tangyouhua/ProgrammingProjectList)
+   * [编程书单](https://github.com/tangyouhua/awesome-programming-books)
+      * [Python书单](https://github.com/jobbole/awesome-python-books)
+      * [前端书单](https://github.com/jobbole/awesome-web-dev-books)
+   * [前端技能栈](https://github.com/jobbole/web-skill-set)
+   * 教程
+      * [J2SE官方教程](program-blog/java-oracle-learn-path.md)
+      * [IBM Developerworks Java 中文站](https://www.ibm.com/developerworks/cn/java/)
+* 练习用
+   * Labs
+      * [腾讯云开发者实验室](https://cloud.tencent.com/developer/labs)
+* 翻译用
+   * [编程词汇表](program-vocabulary/java.md)
+* 总结用
+   * [小程序学习笔记](program-blog/weixin-app/learn-weixin-app-archive.md)
+  * [Java读书笔记](program-book/java.md)
+  * [知识管理读书笔记](program-blog/kmcenter.md)
+* 休闲用
+   * [代码时间播客](program-blog/codetimecn.md)
+* 待整理
+   * [CSS Tricks](https://css-tricks.com/): CSS样式练习
+   * [QuirksMode](https://www.quirksmode.org/): 浏览器兼容性测试网站, 包括CSS/DOM/DOM事件/HTML5/移动端测试
+   * [MarkSheet](http://marksheet.io/): 免费HTML/CSS教程网站
+   * [Exploring ES6](http://exploringjs.com/es6/index.html)
+   * [ECMA标准](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+   * [Tom大叔的博客: 深入理解 JavaScript 系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+   * [30天纯 JavaScript 挑战](https://github.com/wesbos/JavaScript30)
+   * [通过 Koans测试 学 JavaScript](https://github.com/mrdavidlaing/javascript-koans)
+   * [warriorjs 游戏学 JavaScript](https://github.com/olistic/warriorjs)
+   * [朱邦邦的 JavaScript 学习笔记](https://github.com/zhubangbang/zhubangbang-javascript-notes)
+   * [CSS3 Flexbox 演示](CSS3 Flexbox 演示)
+   * [Awesome Flexbox 布局](https://github.com/afonsopacifer/awesome-flexbox)
+   * [HTTP状态码](../program-vocabulary/http-status-codes.md)
+   * [浏览器渲染过程与性能优化](https://sylvanassun.github.io/2017/10/03/2017-10-03-BrowserCriticalRenderingPath/)
