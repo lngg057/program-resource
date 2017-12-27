@@ -65,6 +65,7 @@
   * [前端书单](https://github.com/jobbole/awesome-web-dev-books)
 * [前端技能栈](https://github.com/jobbole/web-skill-set)
 * 教程
+  * [Java编程入门:construction_worker:](https://github.com/tangyouhua/introduction-to-programming-using-java-cn)
   * [J2SE官方教程](program-blog/java-oracle-learn-path.md)
   * [IBM Developerworks Java 中文站](https://www.ibm.com/developerworks/cn/java/)
 
