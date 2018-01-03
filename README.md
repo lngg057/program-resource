@@ -123,6 +123,7 @@
 * [小程序学习笔记](program-blog/weixin-app/learn-weixin-app-archive.md)
 * [Java读书笔记](program-book/java.md)
 * [知识管理读书笔记](program-blog/kmcenter.md)
+* [如何快速、便捷开发小程序(视频整理)](program-blog/weixin-app/weixin-app-tutorial-2018-1-3.md)
 
 ## 娱乐用
 * [代码时间播客](program-blog/codetimecn.md)
