@@ -112,7 +112,7 @@ Service会处理登陆的业务逻辑, 处理完毕后:
 ![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/9.png)
 
 #### 1.4.2 小程序调用原生方法的数据流
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/0.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/10.png)
 
 举例, 用户点击了扫描二维码按钮:
 
@@ -132,7 +132,7 @@ Service会处理登陆的业务逻辑, 处理完毕后:
 #### 1.4.3 Native回调小程序
 Native在处理过程中需要把消息通知给服务
 
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/0.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/10.png)
 
 举例, 微信关闭或隐藏掉, 会发布 on时间, onLoad等
 
@@ -148,7 +148,7 @@ Native在处理过程中需要把消息通知给服务
 
 ## 2. 新版小程序开发工具介绍
 ### 2.1 做一个微信小程序要准备什么
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/2.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/12.png)
 
 **前端展现只是很小的一部分, 真正复杂的是在后台的服务**
 
@@ -161,10 +161,10 @@ Native在处理过程中需要把消息通知给服务
 
 **存在问题**
 
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/3.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/13.png)
 
 ### 2.3 新版开发工具改进
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/4.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/14.png)
 
 **一键生成的部署**
 
@@ -176,7 +176,7 @@ Native在处理过程中需要把消息通知给服务
 ### 2.4 wafer 2.0
 小程序开发解决方案sdk与技术支持
 
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/5.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/15.png)
 
 * 登录
 * 图片上传
@@ -188,15 +188,15 @@ Native在处理过程中需要把消息通知给服务
 * ...
 
 ## 3. 小程序云上开发实践
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/6.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/16.png)
 
 自己实现Websocket需要考虑的问题
 
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/7.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/17.png)
 
 小程序Websocket解决方案
 
-![](1http://oiitmli7b.bkt.clouddn.com/wxapp/course/8.png)
+![](http://oiitmli7b.bkt.clouddn.com/wxapp/course/18.png)
 
 小程序能力 demo
 
