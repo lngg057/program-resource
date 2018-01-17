@@ -81,6 +81,7 @@
    * [伯乐在线-前端技能栈](https://github.com/jobbole/web-skill-set)
    * [Jackson Tian-前端技能汇总](https://github.com/JacksonTian/fks)
 * [编程书单](https://github.com/tangyouhua/awesome-programming-books)
+   * [我读](program-book/my-reading.md)
    * [Python书单](https://github.com/jobbole/awesome-python-books)
    * [前端书单](https://github.com/jobbole/awesome-web-dev-books)
 * 教程
